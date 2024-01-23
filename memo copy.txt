@@ -1,0 +1,927 @@
+<link href='/wp-content/themes/appmedia/lib/pazudora/pazudora.css?202112211507' rel='stylesheet'>
+<link rel="stylesheet" href="/wp-content/themes/appmedia/lib/pazudora/pazudora_page.css?201905151021">
+<div class="pazudora" data-id='hi'>
+		<div class="pazudora_head">
+			<h2 class="first-h2">パズドラ攻略wikiトップページ</h2><img alt="パズドラ攻略Wiki" class="aligncenter size-full wp-image-2713132" height="320" src="/wp-content/uploads/2018/11/0758c19a61dceb537f7e7a700e923d22.png" width="640">
+			<div class="pazulist"><img class="pazulist_image" src="/wp-content/uploads/2018/01/1401766deed3ff5b6bfa9a696e093c2e.png" width="45"></div>
+			<div class="top_index">
+				<ul>
+					<li class="pazudora_underline">
+						<a href="#new"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">イベント情報</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#ranking"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">最新ランキング</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#guerrilla"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">ゲリラ情報</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#monster"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">最新モンスター</a>
+					</li>
+				</ul>
+				<ul>
+					<li class="pazudora_underline">
+						<a href="#dungeon"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">最新ダンジョン</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#pick"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">注目情報</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#database"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">データベース</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#%EF%BD%8Dulti"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">3人マルチ関連</a>
+					</li>
+				</ul>
+				<ul>
+					<li class="pazudora_underline">
+						<a href="#help"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">お役立ち情報</a>
+					</li>
+					<li class="pazudora_underline">
+						<a href="#system"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">基本システム</a>
+					</li><!-- 
+         <li class="pazudora_underline"><a href="#radar"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">レーダー関連</a></li>
+ -->
+					<li class="pazudora_underline">
+						<a href="#board"><img src="/wp-content/uploads/2018/01/4820b2142daabbbc8fb59d46d890f2ee.png">各種掲示板</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="gold-line"></div>
+		<div class="pazudora_main">
+			<div class="pazudora_main_box" style="padding: 10px 0px 0px 0px;"></div>
+			<div class="pazudora_main_box">
+				<h2>パズドラ最新情報</h2>[top_swiper]
+				<h2>更新履歴</h2>
+				<div class="news_parent_box">
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/76074110">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9265.jpg"></div>
+							<div class="news_frame_day">
+								2022.10/5
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">裏魔廊の支配者をノルザキティで攻略</span>
+							</div>
+							<div class="news_frame_text">
+								▶記事を公開
+							</div>
+						</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/76074827">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9267.jpg"></div>
+							<div class="news_frame_day">
+								2022.10/5
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">天冥の星動をアルジェキティで攻略</span>
+							</div>
+							<div class="news_frame_text">
+								▶記事を公開
+							</div>
+						</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/64140">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8446.jpg"></div>
+							<div class="news_frame_day">
+								2022.10/5
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">最強リーダーキャラランキング</span>
+							</div>
+							<div class="news_frame_text">
+								▶ランキングを更新
+							</div>
+						</div></a>
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76070219">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7862.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/4
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">ポチポチダンボ編成の組み方とおすすめキャラ</span>
+						</div>
+						<div class="news_frame_text">
+							▶記事を公開
+						</div>
+					</div></a>
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76063481">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9272.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/3
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">サンリオコロシアムの攻略と安定周回パーティ</span>
+						</div>
+						<div class="news_frame_text">
+							▶周回編成を掲載
+						</div>
+					</div></a>
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76063472">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9282.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/3
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">ガチャドラプリン降臨の攻略と安定周回パーティ</span>
+						</div>
+						<div class="news_frame_text">
+							▶周回編成を掲載
+						</div>
+					</div></a>
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/3336076">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9267.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/3
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">サンリオコラボの当たりと評価</span>
+						</div>
+						<div class="news_frame_text">
+							▶ランキングを更新
+						</div>
+					</div></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				</div>
+				<div class="accbox">
+					<label for="label1 tab-1">更新情報をもっと見る</label><input class="cssacc" id="label1 tab-1" type="checkbox">
+					<div class="accshow">
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/6309739">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/6802.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/4
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">獄練の闘技場の周回編成</span>
+						</div>
+						<div class="news_frame_text">
+							▶ランク上げ用編成を追加
+						</div>
+					</div></a>
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76050434">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/uploads/2022/09/66233d3196a16397bd59309e62ede356.webp"></div>
+						<div class="news_frame_day">
+							2022.9/30
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">大感謝祭2022イベントまとめ</span>
+						</div>
+						<div class="news_frame_text">
+							▶記事を公開
+						</div>
+					</div></a>
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76050401">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/uploads/2020/11/adf7625e69cbe06040b577ba526d057d.png"></div>
+						<div class="news_frame_day">
+							2022.9/30
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">魔法石100個のおすすめ使い道</span>
+						</div>
+						<div class="news_frame_text">
+							▶記事を公開
+						</div>
+					</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/76056086">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9177.jpg"></div>
+							<div class="news_frame_day">
+								2022.9/30
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">蒼穹の千龍をサボで攻略</span>
+							</div>
+							<div class="news_frame_text">
+								▶記事を公開
+							</div>
+						</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/3521251">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/4415.jpg"></div>
+							<div class="news_frame_day">
+								2022.9/28
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">最強サブランキング</span>
+							</div>
+							<div class="news_frame_text">
+								▶ランキングを更新
+							</div>
+						</div></a>
+
+
+
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/76076666">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7960.jpg"></div>
+						<div class="news_frame_day">
+							2022.10/1
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">ハロウィンコットンカップの攻略と報酬</span>
+						</div>
+						<div class="news_frame_text">
+							▶攻略情報を掲載
+						</div>
+					</div></a>
+
+
+
+
+
+
+
+<!----------------------------
+
+
+
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/4186489">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ" src="/wp-content/uploads/2022/06/0ce53b1149d510dbb14a2e3f9cc05a44.webp"></div>
+						<div class="news_frame_day">
+							2022.9/30
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">パズパスは買うべき？</span>
+						</div>
+						<div class="news_frame_text">
+							▶情報を更新
+						</div>
+					</div></a>
+
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/64140">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8446.jpg"></div>
+							<div class="news_frame_day">
+								2022.8/17
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">最強リーダーキャラランキング</span>
+							</div>
+							<div class="news_frame_text">
+								▶ランキングを更新
+							</div>
+						</div></a>
+
+                                        <a href="https://admin.appmedia.jp/pazudora/75767053">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7691.jpg"></div>
+						<div class="news_frame_day">
+							2022.7/26
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">★6フェス限希石ラッシュの高速周回パーティ</span>
+						</div>
+						<div class="news_frame_text">
+							▶編成を追加
+						</div>
+					</div></a>
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/75767410">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8236.jpg"></div>
+						<div class="news_frame_day">
+							2022.7/26
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">★7フェス限希石ラッシュの高速周回パーティ</span>
+						</div>
+						<div class="news_frame_text">
+							▶編成を追加
+						</div>
+					</div></a>
+
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/75269685">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7549.jpg"></div>
+						<div class="news_frame_day">
+							2022.6/16
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">最強アシスト装備ランキング</span>
+						</div>
+						<div class="news_frame_text">
+							▶ランキングを更新
+						</div>
+					</div></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/256520">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/5745.jpg"></div>
+							<div class="news_frame_day">
+								2022.4/14
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">周回リーダーキャラランキング</span>
+							</div>
+							<div class="news_frame_text">
+								▶ランキングを更新
+							</div>
+						</div></a>
+
+                                                <a href="https://admin.appmedia.jp/pazudora/5394628">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/uploads/2022/04/a36e7bd0096881032b594bdcb67f3291.jpg"></div>
+							<div class="news_frame_day">
+								2022.4/6
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">称号の種類と入手方法</span>
+							</div>
+							<div class="news_frame_text">
+								▶情報を更新
+							</div>
+						</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/75119928">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8343.jpg"></div>
+							<div class="news_frame_day">
+								2022.3/31
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">30分ゲリラダンジョン共通周回編成まとめ</span>
+							</div>
+							<div class="news_frame_text">
+								▶編成を追加
+							</div>
+						</div></a>
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/3538996">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/3311.jpg"></div>
+						<div class="news_frame_day">
+							2022.4/27
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">極練の闘技場の周回編成まとめ</span>
+						</div>
+						<div class="news_frame_text">
+							▶編成を2つ追加
+						</div>
+					</div></a>
+
+
+                                                <a href="https://admin.appmedia.jp/pazudora/6309739">
+						<div class="news_frame">
+							<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8297.jpg"></div>
+							<div class="news_frame_day">
+								2022.1/27
+							</div>
+							<div class="news_frame_title">
+								<span style="font-size: 13px;">獄練の闘技場の攻略と周回編成まとめ</span>
+							</div>
+							<div class="news_frame_text">
+								▶編成を追加
+							</div>
+						</div></a>
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/3254158">
+					<div class="news_frame">
+						<div class="news_frame_img"><img src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/6078.jpg"></div>
+						<div class="news_frame_day">
+							2022.1/21
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">1月の最新情報</span>
+						</div>
+						<div class="news_frame_text">
+							▶レアガチャチャレンジの強化内容判明
+						</div>
+					</div></a>
+
+ 
+
+
+
+
+
+                                        <a href="https://admin.appmedia.jp/pazudora/4178557">
+					<div class="news_frame">
+						<div class="news_frame_img"><img alt="パズドラ_公式放送" src="/wp-content/uploads/2019/10/098aceb76e040c6d34ccccaef2abc891.jpg"></div>
+						<div class="news_frame_day">
+							2021.12/17
+						</div>
+						<div class="news_frame_title">
+							<span style="font-size: 13px;">公式放送の最新情報まとめ</span>
+						</div>
+						<div class="news_frame_text">
+							▶発表内容を予想！！
+						</div>
+					</div></a>
+
+<a href="https://admin.appmedia.jp/pazudora/3783835"><div class="news_frame">
+    <div class="news_frame_img"><img src="/wp-content/uploads/2017/11/b65bed19207ff6799f224ef407d9fa16.jpg" alt="パズドラ_とじたまドラ_アイコン"></div>
+    <div class="news_frame_day">2021.12/13</div>
+    <div class="news_frame_title"><span style="font-size: 13px;">エラー・メンテナンス情報</span></div>
+    <div class="news_frame_text">▶メンテナンスの情報を追記</div>
+</div></a>
+
+
+<a href="https://admin.appmedia.jp/pazudora/3510157"><div class="news_frame">
+    <div class="news_frame_img"><img src="/wp-content/uploads/2019/11/78b4fff3ad48bac3029237c4bfef065c.png" alt="パズドラ_ガチャドラ"></div>
+    <div class="news_frame_day">2020.2/18</div>
+    <div class="news_frame_title"><span style="font-size: 13px;">引くべきガチャはどれ？</span></div>
+    <div class="news_frame_text">▶現在開催中のガチャに準じた内容へ更新</div>
+</div></a>
+
+<a href="https://admin.appmedia.jp/pazudora/3607927"><div class="news_frame">
+    <div class="news_frame_img"><img src="/wp-content/uploads/2017/08/ba75b231426a9160b7222b458949851d.jpg" alt="パズドラ_やるべきこと"></div>
+    <div class="news_frame_day">2020.2/18</div>
+    <div class="news_frame_title"><span style="font-size: 13px;">今やるべきことは？</span></div>
+    <div class="news_frame_text">▶現在開催中のイベントに合わせ内容を更新</div>
+</div></a>
+
+ --------------------->
+					</div>
+				</div>
+				<p><a href="https://appmedia.co.jp/writer-%e3%82%b2%e3%83%bc%e3%83%a0%e6%94%bb%e7%95%a5-%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%83%a9%e3%82%a4%e3%82%bf%e3%83%bc%e3%81%ae%e6%b1%82%e4%ba%ba/" target="_blank"><img alt="パズドラ_求人" class="aligncenter size-full wp-image-2675536" src="/wp-content/uploads/2018/11/ca67e1700d0835c725b1726e711bf11e.jpg" width="100%"></a></p>
+				<h2 id="new">パズドラ最新イベント情報</h2>
+<!-----
+<span style="font-size: 12pt;"><a href="#calendar">▼イベントカレンダーはコチラ！</a></span>
+------->
+<!--====
+
+<h3>公式放送「夏休みスペシャル」実施！</h3>
+<p><a href="https://admin.appmedia.jp/pazudora/4178557"><img class="aligncenter size-full" src="/wp-content/uploads/2018/12/acb6660a64e2374380a5991615866a11.jpg" alt="パズドラ" width="90%" /></a></p>
+<table border="1">
+<tbody>
+<tr>
+<th width="25%">開催期間</th>
+<td width="75%">7/12(月)20:00～(予定)</td>
+</tr>
+</tbody>
+</table>
+<a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/4178557">公式放送の最新情報まとめ</a>
+
+
+<h3>やることに迷ったらココをチェック！</h3>
+<p><a href="https://admin.appmedia.jp/pazudora/3607927"><img src="/wp-content/uploads/2019/07/4317868597650417716caa52687e51ee.jpg" alt="パズドラ_今やるべきこと_優先度" width="90%" class="aligncenter size-full wp-image-3830932" /></a></p>
+
+<a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/3607927">今やるべき事と優先度</a>
+
+
+
+
+
+
+
+
+
+				<h3>公式放送「夏直前スペシャル」実施！</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/4178557"><img alt="パズドラ" class="aligncenter size-full" src="/wp-content/uploads/2022/06/3837204f2bb9f69d050db84226ed7872.webp" width="90%"></a></p>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th width="25%">開催期間</th>
+							<td width="75%">2022.6/30(木)20:00～(予定)</td>
+						</tr>
+					</tbody>
+				</table>
+                                <a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/4178557">公式生放送の最新情報まとめ</a>
+
+
+
+<h3>スーパーゴッドフェス開催！</h3>
+<p><a href="https://admin.appmedia.jp/pazudora/77896"><img src="/wp-content/uploads/2022/06/5be1eb1e85d12dae871772fa5979b881.webp" alt="パズドラ" width="90%" class="aligncenter size-full" /></a></p>
+<table>
+<tbody>
+<tr>
+<th width="25%">開催期間</th>
+<td>2022.6/17(金)12:00~6/19(日)11:59</td>
+</tr>
+</tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <th colspan="2">ランキング＆ガチャシミュはコチラ！</th>
+        </tr>
+        <tr>
+            <td width="50%">▶<a href="https://admin.appmedia.jp/pazudora/77896">当たりランキング</a></td>
+            <td width="50%">▶<a href="https://admin.appmedia.jp/pazudora/2900698">ガチャシミュレーター</a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+====-->
+
+
+
+
+
+				<h3>「大感謝祭2022」開催！</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/76050434"><img alt="パズドラ" class="aligncenter size-full" src="/wp-content/uploads/2022/09/91977e7e39c8473199864ee437d4204c.webp" width="90%"></a></p>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th width="25%">開催期間</th>
+							<td width="75%">2022.10/1(土)0:00~12/31(土)23:59</td>
+						</tr>
+					</tbody>
+				</table>
+                                <a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/76050434">大感謝祭2022イベント情報まとめ</a>
+
+
+				<h3>「サンリオコラボ」開催！</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/3336076"><img class="aligncenter size-full" src="/wp-content/uploads/2022/06/042c1229fe4ea1356ae3ca18d8a5719d.webp" alt="パズドラ" width="90%" /></a></p>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th width="25%">開催期間</th>
+							<td width="75%">2022.10/3(月)10:00~10/17(月)9:59</td>
+						</tr>
+					</tbody>
+				</table>
+                                [common_disp_linkcode category="pazudora" filename="pazudora_418"]
+
+
+
+
+
+
+
+
+				<h3>8人対戦「ハロウィンコットンカップ」開催！</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/76076666"><img alt="パズドラ" class="aligncenter size-full" src="/wp-content/uploads/2022/06/1203c77137413970a950d9f7d5de451a.webp" width="90%"></a></p>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th width="25%">開催期間</th>
+							<td width="75%">2022.10/1(土)12:00~10/31(月)23:59</td>
+						</tr>
+					</tbody>
+				</table>
+                                <a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/76076666">ハロウィンコットンカップの攻略と報酬</a>
+
+
+
+
+<!--====================================================
+<h3 id="quest">7月のクエストダンジョン登場！</h3>
+<p><a href="https://admin.appmedia.jp/pazudora/862535"><img src="/wp-content/uploads/2020/06/b90f6d4f6758c70c3fae25bcabace265.jpg" alt="パズドラ_7月のクエストダンジョン_2020" width="90%" class="aligncenter size-full wp-image-5044723" /></a></p>
+<table border="1">
+<tbody>
+<tr>
+<th width="25%">開催期間</th>
+<td width="75%">2020.7/1(水)0:00~8/10(月)23:59</td>
+</tr>
+</tbody>
+</table>
+<table border="1">
+<tbody>
+<tr>
+<th colspan="3">チャレダンのLv別攻略情報はこちら</th>
+</tr>
+<tr>
+<td style="width: calc(100% / 3);"><a href="https://admin.appmedia.jp/pazudora/861608"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/2281.jpg" width="50" height="50" />Lv8</a></td>
+<td style="width: calc(100% / 3);"><a href="https://admin.appmedia.jp/pazudora/861606"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/2255.jpg" width="50" height="50" />Lv9</a></td>
+<td style="width: calc(100% / 3);"><a href="https://admin.appmedia.jp/pazudora/861452"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/5546.jpg" width="50" height="50" />Lv10</a></td>
+</tr>
+</tbody>
+</table>
+<a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/862535">7月のクエストダンジョンの攻略と報酬</a>
+==========================================================-->
+<!---------
+				 <a id="“calendar”"></a>[event_calendar title='パズドラ']
+------->
+
+
+[ad_top_sp id="a"]
+				<h2 id="ranking">各種ランキング</h2>
+				<table class="no_margin">
+					<tbody>
+						<tr>
+							<td style="width: 35%;">
+								<a href="https://admin.appmedia.jp/pazudora/13802"><img alt="パズドラ_リセマラ" class="wp-image-3038944 aligncenter" height="72" src="/wp-content/uploads/2018/05/2d5d31c37ce84f5861e058391d6eb76b.png" width="120">リセマラ</a>
+							</td>
+							<td style="width: 65%; text-align: left;">
+								現環境でのリセマラにおすすめのモンスターを紹介しています。
+								<hr>
+								リセマラ終了後はココをチェック！<br>
+								┗<a href="https://admin.appmedia.jp/pazudora/2687854">序盤のおすすめの進め方</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/64140"><img alt="パズドラ_最強リーダー" class="wp-image-3038956 aligncenter" height="72" src="/wp-content/uploads/2018/05/78a4df2b4323996336653d166d0c1e1b.png" width="120">最強リーダー</a>
+							</td>
+							<td style="text-align: left;">現環境でトップクラスの攻略性能を持つリーダーを紹介しています。</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/3521251"><img alt="最強サブ_パズドラ_icon" class="wp-image-3539104 aligncenter" height="69" src="/wp-content/uploads/2019/06/e2dfcf4f9172aa38ffdc1d7c96f48112.png" width="115">最強サブ</a>
+							</td>
+							<td style="text-align: left;">サブとしてトップクラスの性能を持つモンスターをカテゴリ別、属性別で紹介しています。</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/256520"><img alt="パズドラ_周回リーダー" class="wp-image-3038962 aligncenter" height="72" src="/wp-content/uploads/2018/05/5e3f86a545a17c0fbed9042be353502c.png" width="120">周回リーダー</a>
+							</td>
+							<td style="text-align: left;">周回に特化したリーダー性能を持つモンスターを紹介しています。</td>
+						</tr>
+					</tbody>
+				</table>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th colspan="5">属性別最強リーダーランキング</th>
+						</tr>
+						<tr>
+							<td width="20%">
+								<a href="https://admin.appmedia.jp/pazudora/1130922"><img alt="drop_fire" class="alignnone wp-image-382533" height="30" src="/wp-content/uploads/2016/07/drop_fire.png" width="30"></a><br>
+								<a href="https://admin.appmedia.jp/pazudora/1130922"><span style="color: #ff0000;">火属性</span></a>
+							</td>
+							<td width="20%">
+								<a href="https://admin.appmedia.jp/pazudora/1136907"><img alt="drop_water" class="alignnone wp-image-382532" height="30" src="/wp-content/uploads/2016/07/drop_water.png" width="30"></a><br>
+								<a href="https://admin.appmedia.jp/pazudora/1136907"><span style="color: #3366ff;">水属性</span></a>
+							</td>
+							<td width="20%">
+								<a href="https://admin.appmedia.jp/pazudora/1136913"><img alt="drop_tree" class="alignnone wp-image-382529" height="30" src="/wp-content/uploads/2016/07/drop_tree.png" width="30"></a><br>
+								<a href="https://admin.appmedia.jp/pazudora/1136913"><span style="color: #008000;">木属性</span></a>
+							</td>
+							<td width="20%">
+								<a href="https://admin.appmedia.jp/pazudora/1136916"><img alt="drop_light" class="alignnone wp-image-382531" height="30" src="/wp-content/uploads/2016/07/drop_light.png" width="30"></a><br>
+								<a href="https://admin.appmedia.jp/pazudora/1136916"><span style="color: #ff9900;">光属性</span></a>
+							</td>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/1136919"><img alt="drop_dark" class="alignnone wp-image-382530" height="30" src="/wp-content/uploads/2016/07/drop_dark.png" width="30"></a><br>
+								<a href="https://admin.appmedia.jp/pazudora/1136919"><span style="color: #800080;">闇属性</span></a>
+							</td>
+						</tr>
+					</tbody>
+				</table><!--======
+<h2 id="guerrilla">ゲリラ情報</h2>
+[common_disp_linkcode category="pazudora" filename="pazudora_95"]
+<table border="1">
+<tbody>
+<tr>
+<td style="background-color: #cce5ff;" width="50%"><a href="https://admin.appmedia.jp/pazudora/3226381"><img class="alignnone  wp-image-3226414" src="/wp-content/uploads/2019/03/281296f3d25d5f58035a38ff53830410.jpg" alt="パズドラ_＋ポイントの洞窟" width="249" height="93" /></a></td>
+<td style="background-color: #cce5ff; text-align: left;"><span class="small"><span style="color: #ff6600;">▶<a style="color: #ff6600;" href="https://admin.appmedia.jp/pazudora/3226381">攻略情報と高速周回パ</a></span><br>
+<span style="color: #ff6600;">▶<a style="color: #ff6600;" href="https://admin.appmedia.jp/pazudora/2039158">プラスポイントとは？</a></span></span></td>
+</tr>
+</tbody>
+</table>
+<table border="1">
+<tbody>
+<tr>
+<th colspan="2">ゲリラの組み分け詳細はコチラから</th>
+</tr>
+<tr>
+<td width="50%"><a href="https://admin.appmedia.jp/pazudora/83349">ゲリラ時間割</a></td>
+<td width="50%"><a href="https://admin.appmedia.jp/pazudora/513266">レダドラ専用時間割</a></td>
+</tr>
+</tbody>
+</table>
+===-->
+				<h2 id="monster">パズドラの最新モンスター</h2>
+				<p><img alt="パズドラ_新モンスター情報" class="alignnone size-full wp-image-668222" src="/wp-content/uploads/2016/05/26691ccd0f3349bc43e4542fde773a3c.png" width="100%"></p>
+<h3>コラボ・限定ガチャキャラ</h3>
+
+
+<h4>サンリオコラボ</h4>
+[pazudora_chara_reccomend_table no='9263,9265,9267,9269,9271,9272,9273,9275,9276,9277,9279,9280,9281,9282,9283,9284,9285,9286' th_text='サンリオコラボ新キャラ']
+
+<h4>ガンホーコラボ</h4>
+[pazudora_chara_reccomend_table no='9232,9234,9235,9236,9237,9238,9239,9241,9242,9243,9244,9245,9246,9247,9248,9249,9250,9251,9252,9253,9254,9255,9256,9257,9258' th_text='ガンホーコラボ新キャラ']
+
+
+
+
+
+
+<h3 id="newmonster">オリジナルモンスター</h3>
+[pazudora_chara_reccomend_table no='8396,8397,8398,8399,8400' th_text='新登場モンスター']
+
+
+<h2 id="dungeon">パズドラの最新ダンジョン</h2>
+				<p><img alt="パズドラ_最新ダンジョン情報" class="aligncenter size-full wp-image-1352301" src="/wp-content/uploads/2016/05/68ad9228eda8e51131324932277d40a6.png" width="100%"></p>
+				<h3>最新ダンジョン</h3>
+<table style="font-size: 70%;">
+<tbody>
+<tr>
+<th colspan="3">最新ダンジョン</th>
+</tr>
+<tr>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/75936865"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/9228.jpg" width="50" height="50" /><span class="small">蒼穹の千龍</span></a></td>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/75753553"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8915.jpg" width="50" height="50" />業炎の百龍</a></td>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/75193437"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7777.jpg" width="50" height="50" /><span class="small">零次元の創造主</span></a></td>
+</tr>
+<tr>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/27488661"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/7460.jpg" width="50" height="50" /><span class="small">裏四次元の探訪者</span></a></td>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/75595876"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8231.jpg" width="50" height="50" /><span class="small">裏多次元の越鳥</span></a></td>
+<td style="width: 33%;"><a href="https://admin.appmedia.jp/pazudora/27286279"><img class="aligncenter" src="/wp-content/themes/appmedia/lib/pazudora/img/kobetu/icon/8233.jpg" width="50" height="50" /><span class="small">多次元の越鳥</span></a></td>
+</tr>
+</tbody>
+</table>
+				<h3>ダンジョン一覧</h3>
+				<table>
+					<tbody>
+						<tr>
+							<th colspan="2">ダンジョン一覧</th>
+						</tr>
+						<tr>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/467565"><img alt="パズドラ_降臨ダンジョン一覧" class="aligncenter" src="/wp-content/uploads/2016/10/b554a59076cff639e19aa5cd47e106f5.jpg" width="400">降臨ダンジョン</a>
+							</td>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/83349"><img alt="パズドラ_ゲリラダンジョン一覧" class="aligncenter" src="/wp-content/uploads/2015/08/2a1b638332fa974037774c1688d02a6c.jpg" width="400">ゲリラダンジョン</a>
+							</td>
+						</tr>
+						<tr>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/27375504"><img alt="パズドラ_ゲリラダンジョン一覧" class="aligncenter" src="/wp-content/uploads/2022/01/13929ea8d32f279f1b145acb1e0c949b-1.jpg" width="400">テクニカルダンジョン</a>
+							</td>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/75128061"><img alt="パズドラ_ノーマルダンジョン一覧" class="aligncenter" src="/wp-content/uploads/2022/02/85f4c24b0cffe97665d86c6cdbc98ec2.jpg" width="400">ノーマルダンジョン</a>
+							</td>
+						</tr>
+						<tr>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/6603313"><img alt="パズドラ" class="aligncenter" src="/wp-content/uploads/2021/06/3136e85ffdc2e5dce7e88de5314f3656.jpg" width="400">曜日闘技場まとめ</a>
+							</td>
+							<td style="width: 50%;">
+								<a href="https://admin.appmedia.jp/pazudora/6299674"><img alt="パズドラ" class="aligncenter" src="/wp-content/uploads/2021/04/673a355237553e3e21a5a4bdd2b770a3.jpg" width="400">8人でサクッと対戦</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table border="1">
+					<tbody>
+						<tr>
+							<th colspan="2">系統別ダンジョンギミック一覧</th>
+						</tr>
+						<tr>
+							<td width="50%">
+								<a href="https://admin.appmedia.jp/pazudora/789207">防御系</a>
+							</td>
+							<td width="50%">
+								<a href="https://admin.appmedia.jp/pazudora/789324">盤面妨害系</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/789585">スキルと覚醒妨害</a>
+							</td>
+							<td>
+								<a href="https://admin.appmedia.jp/pazudora/789640">即時効果の無いもの</a>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<a href="https://admin.appmedia.jp/pazudora/538697">全ギミック早見表</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>[ad_top_sp id="b"]
+				<h2 id="pick">パズドラのピックアップ情報</h2>
+<!------
+				<h3>ガチャはどれを引いたらいい？</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/3510157"><img alt="パズドラ_ガチャはどれを引くべき？" class="aligncenter size-full wp-image-4019623" src="/wp-content/uploads/2019/10/d32bbdabc6f52d678c77fa72ff9a67c0.jpg" width="90%"></a></p><a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/3510157">ガチャはどれを引くべき？</a>
+------>
+				<h3>コラボキャラ交換時のおすすめ交換対象は？</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/1823328"><img alt="交換対象おすすめモンスター" class="aligncenter size-full wp-image-1827213" src="/wp-content/uploads/2018/04/b3f796981956f01369a01668fef2250c.jpg" width="90%"></a></p><a class="linkbtn_orange" href="https://admin.appmedia.jp/pazudora/1823328">交換対象におすすめのモンスター</a>
+				<h3 id="story">ストーリーダンジョン登場！</h3>
+				<p><a href="https://admin.appmedia.jp/pazudora/3859006"><img alt="パズドラ_ストーリーダンジョン" class="aligncenter size-full wp-image-3911026" src="/wp-content/uploads/2019/09/06697d6d9ad2e260c5ce48c8b66b9108-1.jpg" width="90%"></a></p>
+[common_disp_linkcode category="pazudora" filename="pazudora_1462"]
+[common_disp_linkcode category="pazudora" filename="pazudora_94"]
+
+<!-----
+<h2 id="overview">パズドラのゲーム概要</h2>
+<h3>ゲーム基本情報</h3>
+<table>
+<tbody>
+<tr>
+<th style="width: 30%;">タイトル</th>
+<td style="text-align: left;">パズル＆ドラゴンズ</td>
+</tr>
+<tr>
+<th style="width: 30%;">配信日</th>
+<td style="text-align: left;">【iOS版】2012年2月20日(月)<br>
+【Android版】2012年9月18日(月)</td>
+</tr>
+<tr>
+<th style="width: 30%;">価格</th>
+<td style="text-align: left;">基本プレイ無料(※一部ゲーム内課金あり)</td>
+</tr>
+<tr>
+<th style="width: 30%;">対応OS</th>
+<td style="text-align: left;">iOS / Android</td>
+</tr>
+<tr>
+<th style="width: 30%;">ジャンル</th>
+<td style="text-align: left;">パズルRPG</td>
+</tr>
+<tr>
+<th style="width: 30%;">公式サイト</th>
+<td style="text-align: left;">【公式サイト】<br>
+<a href="https://pad.gungho.jp">https://pad.gungho.jp</a><br>
+【公式運営サイト】<br>
+<a href="https://pad.gungho.jp/member/">https://pad.gungho.jp/member/</a></td>
+</tr>
+<tr>
+<th style="width: 30%;">販売元</th>
+<td style="text-align: left;">GungHo Online Entertainment, Inc.</td>
+</tr>
+</tbody>
+</table>
+<span class="small">© GungHo Online Entertainment, Inc. All Rights Reserved.</span>
+------>
+
+			</div>
+		</div>
+	</div>
+	<link href='/wp-content/themes/appmedia/lib/common/lity/lity.css' rel='stylesheet'>
+	<script src='/wp-content/themes/appmedia/lib/common/lity/lity.js'>
+	</script>

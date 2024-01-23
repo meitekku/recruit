@@ -12,13 +12,11 @@ from tqdm import tqdm
 
 start_time = time.time()
 
-#検索するワード(ワード数が多くなると比例して時間がかかるので注意)
+#キーワード検索する(ワード数が多くなると比例して時間がかかるので注意)
 url_search_terms = ["データ収集","スクレイピング","データエンジニア","投資分析","金融市場","個人投資家","資産運用","Fintech","投資家","金融工学","機関投資家","金融機関","内製化","創業期"]
+#本文内に検索ワードがあるかどうかをチェック
 another_content_search_terms = ["PL","PM","株式市場"]
-content_search_terms = url_search_terms + another_content_search_terms
 
-#以前のデータがあり、新着情報だけを取得したい場合はTrueにする
-avoid_url_flg = False
 #就職情報のタイトルに含まれる場合に除外するワード
 title_avoid = ["食","採用","基盤"]
 #就職情報の本文に含まれる場合に除外するワード
@@ -26,6 +24,10 @@ avoid_terms = ["派遣","SES","現場","常駐","犯罪","音楽"]
 #実際に求人ボックスで検索する際に除外するワード
 avoid_search_array = ["自動車","犯罪","ゲーム","飲食","SES","医療","広告","家電","ゲーム","建設","スマホアプリ","SaaS","現場","クラウド"]
 
+#以前のデータがあり、新着情報だけを取得したい場合はTrueにする
+avoid_url_flg = False
+
+content_search_terms = url_search_terms + another_content_search_terms
 user_agent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1'
 header = {'User-Agent': user_agent}
 salary = "6000000"
@@ -112,12 +114,18 @@ for i,anchor in tqdm(enumerate(urls), total=len(urls)):
 
     title = title_ele[0].text_content()
 
+    #本文内に該当の条件があるか
     matched_terms = [term for term in content_search_terms if term in job_text]
-    if matched_terms and not any(term in job_text for term in avoid_terms) and ("エンジニア" in title or "エンジニア" in job_text or "プログラ" in job_text):
+    #本文内にNGワードがある場合は除外
+    not_matched_ng = not any(term in job_text for term in avoid_terms)
+    #本文中に「エンジニア」か「プログラマー」が含まれている場合のみ抽出
+    match_programmer = "エンジニア" in title or "エンジニア" in job_text or "プログラ" in job_text
+    if matched_terms and not_matched_ng and match_programmer:
+        #マッチした用語を抽出
         sorted_matched_terms = [term for term in url_search_terms if term in matched_terms]
         matched_terms_str = ",".join(sorted_matched_terms[:4])
-        company_name = salary = ""
 
+        company_name = salary = ""
         if len(title) > 30:
             title = title[:30]
         company_ele = html.xpath(".//section/div[@class='p-detail_head']/p[@class='p-detail_company']")
@@ -132,8 +140,6 @@ for i,anchor in tqdm(enumerate(urls), total=len(urls)):
             salary = salary_ele[0].text_content().replace("給与","").strip()
 
         job_data.append([matched_terms_str, title, check_url, salary, company_name])
-        # print(check_url)
-        # break
 
 df = pd.DataFrame(job_data, columns=['Matched Terms', 'Job Title', 'URL', 'Salary', 'Company Name'])
 df['Min Salary'] = df['Salary'].str.extract(r'(\d+)(?=万円～)').astype(float)
